@@ -1,0 +1,20 @@
+{
+  "required_clauses": [
+    {
+      "name": "Governing Law",
+      "text": "This Agreement shall be governed by and construed in accordance with the laws of [Jurisdiction]."
+    },
+    {
+      "name": "Indemnification",
+      "text": "Each party agrees to indemnify and hold harmless the other party..."
+    },
+    {
+      "name": "Force Majeure",
+      "text": "Neither party shall be liable for any failure or delay in performance under this Agreement due to events beyond its reasonable control."
+    },
+    {
+      "name": "Confidentiality",
+      "text": "All information exchanged between the parties will be treated as confidential."
+    }
+  ]
+}
